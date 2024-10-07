@@ -1,7 +1,7 @@
 # Uniquestore - E-Commerce Website
 
-![](demo.gif)
-Humari Dukaan is a fully functional e-commerce website built using React.js, Redux, React Router, Bootstrap, and Bootstrap Icons. The project aims to provide users with a seamless shopping experience and incorporates various features such as image carousel, scroll animations, search functionality, category-wise shopping, and a robust checkout system.
+
+Uniquestore is a fully functional e-commerce website built using React.js, Redux, React Router, Bootstrap, and Bootstrap Icons. The project aims to provide users with a seamless shopping experience and incorporates various features such as image carousel, scroll animations, search functionality, category-wise shopping, and a robust checkout system.
 
 ## Table of Contents
 
