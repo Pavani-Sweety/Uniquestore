@@ -9,8 +9,6 @@ Uniquestore is a fully functional e-commerce website built using React.js, Redux
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
  
